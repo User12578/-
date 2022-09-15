@@ -70,7 +70,7 @@ export const config = {
       customizedDateList: []
     },
     {
-      name: "老婆2",
+      name: "宝贝",
       id: "",
       useTemplateId: "",
       province: "",
@@ -82,7 +82,7 @@ export const config = {
       customizedDateList: []
     },
     {
-      name: "老婆3",
+      name: "宝贝",
       id: "",
       useTemplateId: "",
       province: "",
